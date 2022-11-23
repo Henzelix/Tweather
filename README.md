@@ -10,5 +10,6 @@ Użyte dodatkowe pakiety:
 
 ![image](https://user-images.githubusercontent.com/50414544/203462967-ba9c0032-494a-469e-ba17-705a1a366892.png)
 ![image](https://user-images.githubusercontent.com/50414544/203462997-0b89fc17-a42f-4228-8643-c1ac47e88f02.png)
+![tweather-logo](https://user-images.githubusercontent.com/50414544/203463253-33bb2f44-9a61-4585-b8ec-8a5dabac3f53.png)
 
 ## Autor: Mikołaj Henzel, 4B
